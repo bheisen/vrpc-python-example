@@ -1,11 +1,14 @@
 # VRPC - Python example
 [![Build Status](https://travis-ci.org/bheisen/vrpc-python-example.svg?branch=master)](https://travis-ci.org/bheisen/vrpc-python-example)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/bheisen/vrpc-python-example/master/LICENSE)
+[![GitHub Releases](https://img.shields.io/github/tag/bheisen/vrpc.svg)](https://github.com/bheisen/vrpc/tag)
 
 This project shows how you can easily bind some C++ code and use it from within
 Python.
 
 ## How to run this example
+
+Start with cloning or downloading this project from github.
 
 ### 1. Using docker
 
